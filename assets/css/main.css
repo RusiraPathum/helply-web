@@ -1130,6 +1130,9 @@ section {
   margin-top: 10px;
   background: #1DCE92;
 }
+.section-header2 {
+  text-align: left;
+}
 .cta .content .cta-btn:hover {
   background: var(--color-primary);
 }
